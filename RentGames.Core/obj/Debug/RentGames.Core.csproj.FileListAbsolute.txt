@@ -1,0 +1,6 @@
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\bin\Debug\RentGames.Core.dll
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\bin\Debug\RentGames.Core.pdb
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\obj\Debug\RentGames.Core.csproj.AssemblyReference.cache
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\obj\Debug\RentGames.Core.csproj.CoreCompileInputs.cache
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\obj\Debug\RentGames.Core.dll
+C:\Users\CaioJordanBritoMende\source\repos\RentGames\RentGames.Core\obj\Debug\RentGames.Core.pdb

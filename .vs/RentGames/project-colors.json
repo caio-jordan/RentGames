@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5693790-fe66-4d41-85d8-504975fa0f0c": {
+      "ProjectGuid": "f5693790-fe66-4d41-85d8-504975fa0f0c",
+      "DisplayName": "RentGamesApi",
+      "ColorIndex": 0
+    },
+    "d8362b40-d969-4ea9-b3e4-0cc75a3d6cc6": {
+      "ProjectGuid": "d8362b40-d969-4ea9-b3e4-0cc75a3d6cc6",
+      "DisplayName": "RentGames.Domain",
+      "ColorIndex": 1
+    },
+    "a06b553b-5748-4c2f-8133-ec5fbd79a083": {
+      "ProjectGuid": "a06b553b-5748-4c2f-8133-ec5fbd79a083",
+      "DisplayName": "RentGames.Repository",
+      "ColorIndex": 2
+    },
+    "a6116bbc-ca8e-4d9a-b31f-902dc777fb5d": {
+      "ProjectGuid": "a6116bbc-ca8e-4d9a-b31f-902dc777fb5d",
+      "DisplayName": "RentGames.Core",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
