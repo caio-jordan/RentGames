@@ -12,5 +12,11 @@ namespace RentGames.Core
         {
 
         }
+
+        public int GetAll(bool? all)
+        {
+            
+            return 1;
+        }
     }
 }
