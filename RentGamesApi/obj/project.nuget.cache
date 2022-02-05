@@ -1,26 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "J/zdDH1vPNCTa7az+De3CnFh99zOciPQgB1WNmXeEl1Zn3hL4GGb5iFW4pRxltmH4nkAGxKzcEZOpaJC1zM+Yw==",
+  "dgSpecHash": "Fb4lJ9RgNST0a4/zgB8EE0/W++6p8I6kmt68u6//slQhH9MteSTa/b1nEJCOjK5mFIYrZDfuxQqdwpRz3EN05w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CaioJordanBritoMende\\source\\repos\\RentGamesApi\\RentGamesApi\\RentGamesApi.csproj",
+  "projectFilePath": "C:\\Repositorio\\RentGames\\RentGamesApi\\RentGamesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
-    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
-    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
-    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "RentGamesApi depends on Swashbuckle.AspNetCore (>= 5.6.3) but Swashbuckle.AspNetCore 5.6.3 was not found. An approximate best match of Swashbuckle.AspNetCore 6.1.4 was resolved.",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
