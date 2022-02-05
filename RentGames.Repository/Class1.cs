@@ -8,5 +8,6 @@ namespace RentGames.Repository
 {
     public class Class1
     {
+
     }
 }
