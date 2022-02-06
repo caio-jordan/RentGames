@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace RentGames.Repository
 {
-    public class Class1
+    public sealed class Product
     {
-
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string Category { get; set; }
     }
 }
