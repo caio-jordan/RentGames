@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\RentGames\\RentGamesApi\\RentGamesApi.csproj": {}
+    "C:\\repos\\RentGames\\RentGamesApi\\RentGamesApi.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\RentGames\\RentGamesApi\\RentGamesApi.csproj": {
+    "C:\\repos\\RentGames\\RentGamesApi\\RentGamesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\RentGames\\RentGamesApi\\RentGamesApi.csproj",
+        "projectUniqueName": "C:\\repos\\RentGames\\RentGamesApi\\RentGamesApi.csproj",
         "projectName": "RentGamesApi",
-        "projectPath": "C:\\Repositorio\\RentGames\\RentGamesApi\\RentGamesApi.csproj",
+        "projectPath": "C:\\repos\\RentGames\\RentGamesApi\\RentGamesApi.csproj",
         "packagesPath": "C:\\Users\\CaioJordanBritoMende\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\RentGames\\RentGamesApi\\obj\\",
+        "outputPath": "C:\\repos\\RentGames\\RentGamesApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
