@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentGamesApi", "RentGamesApi\RentGamesApi.csproj", "{F5693790-FE66-4D41-85D8-504975FA0F0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B74B42D-5DE7-4C73-8CE4-C9DA58C448D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B53C3075-0B71-44FD-9D55-38ADFBCED3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentGames.Domain", "RentGames.Domain\RentGames.Domain.csproj", "{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentGames.Repository", "RentGames.Repository\RentGames.Repository.csproj", "{A06B553B-5748-4C2F-8133-EC5FBD79A083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentGames.Core", "RentGames.Core\RentGames.Core.csproj", "{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5693790-FE66-4D41-85D8-504975FA0F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5693790-FE66-4D41-85D8-504975FA0F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5693790-FE66-4D41-85D8-504975FA0F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5693790-FE66-4D41-85D8-504975FA0F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06B553B-5748-4C2F-8133-EC5FBD79A083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06B553B-5748-4C2F-8133-EC5FBD79A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06B553B-5748-4C2F-8133-EC5FBD79A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06B553B-5748-4C2F-8133-EC5FBD79A083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5693790-FE66-4D41-85D8-504975FA0F0C} = {0B74B42D-5DE7-4C73-8CE4-C9DA58C448D6}
+		{D8362B40-D969-4EA9-B3E4-0CC75A3D6CC6} = {0B74B42D-5DE7-4C73-8CE4-C9DA58C448D6}
+		{A06B553B-5748-4C2F-8133-EC5FBD79A083} = {0B74B42D-5DE7-4C73-8CE4-C9DA58C448D6}
+		{A6116BBC-CA8E-4D9A-B31F-902DC777FB5D} = {0B74B42D-5DE7-4C73-8CE4-C9DA58C448D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF66A37-59E0-4C6F-81AB-4212DCBE4CDE}
+	EndGlobalSection
+EndGlobal
